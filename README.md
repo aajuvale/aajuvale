@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Languages 👨🏻‍💻</h2>
+<h3 align="left">Languages 👨🏻‍💻</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo"  />
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">OS Used 💻</h2>
+<h3 align="left">OS Used 💻</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linux logo"  />
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">Databases 📈</h2>
+<h3 align="left">Databases 📈</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mongodb logo"  />
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">Machine Learning 🦾</h2>
+<h3 align="left">Machine Learning 🦾</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=EE4C2C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="pytorch logo"  />
@@ -65,7 +65,7 @@
 
 ###
 
-<h2 align="left">Others ⚙️</h2>
+<h3 align="left">Others ⚙️</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Adobe&logo=adobe&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="adobe logo"  />

@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Available ⬇️</h2>
+<h2 align="left">Connect With Me ⬇️</h2>
 
 ###
 

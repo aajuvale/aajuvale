@@ -20,14 +20,6 @@
 
 ###
 
-<h2 align="left">Development OS</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=macOS&logo=apple&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="macos logo"  />
-</div>
-
-###
-
 <h2 align="left">Languages 👨🏻‍💻</h2>
 
 <div align="left">

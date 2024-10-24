@@ -1,10 +1,10 @@
-<h2 align="left">Hi there! 👋</h2>
+<h1 align="left">Hi there! 👋</h1>
 
 <p align="left">I'm a software engineer and I am currently exploring new technologies!</p>
 
 ###
 
-<h2 align="left">Connect With Me ⬇️</h2>
+<h1 align="left">Connect With Me ⬇️</h1>
 
 ###
 

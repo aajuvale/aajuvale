@@ -62,6 +62,17 @@
 
 ###
 
+<h2 align="left">Machine Learning 🦾</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=EE4C2C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="pytorch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="pandas logo"  />
+  <img src="https://img.shields.io/static/v1?message=Scikit-learn&logo=scikitlearn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="scikit-learn logo"  />
+  <img src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tensorflow logo"  />
+</div>
+
+###
+
 <h2 align="left">Others</h2>
 
 <div align="left">

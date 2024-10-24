@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linux logo"  />
   <img src="https://img.shields.io/static/v1?message=macOS&logo=apple&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="macos logo"  />
   <img src="https://img.shields.io/static/v1?message=iOS&logo=apple&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ios logo"  />
-  <img src="https://img.shields.io/static/v1?message=Android&logo=android&label=&color=3DDC84&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="android logo"  />
+  <img src="https://img.shields.io/static/v1?message=Windows&logo=windows&label=&color=0078D6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="windows logo"  />
 </div>
 
 ###

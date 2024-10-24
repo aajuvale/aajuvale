@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">🛠️ Dev Tools</h2>
+<h1 align="left">🛠️ Dev Tools</h1>
 
 ###
 

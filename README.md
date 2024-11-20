@@ -24,6 +24,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo"  />
+  <img src="https://img.shields.io/static/v1?message=Swift&logo=swift&label=&color=F05138&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="swift logo"  />
   <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="c logo"  />
   <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=cplusplus&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cpp logo"  />
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />

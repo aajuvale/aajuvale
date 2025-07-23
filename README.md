@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="typescript logo"  />
   <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="c logo"  />
   <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=cplusplus&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cpp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="java logo"  />
+  <img src="https://img.shields.io/static/v1?message=Java&logo=openjdk&label=&color=ED8B00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Java logo" />
   <img src="https://img.shields.io/static/v1?message=GNU%20Bash&logo=gnubash&label=&color=4EAA25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bash logo"  />
 </div>
 
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linux logo"  />
   <img src="https://img.shields.io/static/v1?message=macOS&logo=apple&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="macos logo"  />
   <img src="https://img.shields.io/static/v1?message=iOS&logo=apple&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ios logo"  />
-  <img src="https://img.shields.io/static/v1?message=Windows&logo=windows&label=&color=0078D6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="windows logo"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=for-the-badge" height="35" alt="Windows logo" />
 </div>
 
 ###

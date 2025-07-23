@@ -73,7 +73,7 @@
 
 <div align="left">
    <img src="https://img.shields.io/static/v1?message=Xcode&logo=xcode&label=&color=1575F9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="xcode logo"  />
-   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Code&logo=visualstudiocode&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="vscode logo"  />
+   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge" height="35" alt="Visual Studio Code logo" />
    <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo"  />
    <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="docker logo"  />
    <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&label=&color=326CE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kubernetes logo"  />

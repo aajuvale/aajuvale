@@ -85,7 +85,7 @@
 <h1 align="left">📊 Stats</h1>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/410b7a0967c7b2f8b5f26a948a88349867bc4443aa78aea751e271e42cba2144/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d61616a7576616c65266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d353030266c616e67735f636f756e743d35267468656d653d6769746875625f6461726b26686964655f626f726465723d66616c7365" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aajuvale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="250" alt="stats graph"  />
 </div>
 
 ###
@@ -93,7 +93,7 @@
 <h1 align="left">👨🏻‍💻 Top Languages</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aajuvale&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aajuvale&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=github_dark&hide_border=false" height="175" alt="languages graph"  />
 </div>
 
 ###
